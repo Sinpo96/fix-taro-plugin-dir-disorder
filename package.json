@@ -1,0 +1,16 @@
+{
+    "name": "fix-taro-plugin-dir-disorder",
+    "version": "1.0.1",
+    "description": "taro编译微信小程序插件目录结构错误，在这里纠正下",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "sinpo",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "shelljs": "^0.8.4"
+    }
+}
